@@ -1,14 +1,12 @@
 ---
-title: ''
-output:
-  html_document: default
+html_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Reproducible Research, Week 2 \n Course Project 1
+# Reproducible Research, Week 2, Course Project 1
 Author: Charles N.
 
 Date: June 13, 2020
